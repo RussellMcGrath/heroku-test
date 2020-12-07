@@ -37,7 +37,7 @@ comtypes==1.1.7
 conda==4.3.16 #conda==4.8.4
 conda-build==2.1.5 #conda-build==3.18.11
 # conda-package-handling==1.7.0
-conda-verify==3.4.2
+# conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography==2.8
 cycler==0.10.0
